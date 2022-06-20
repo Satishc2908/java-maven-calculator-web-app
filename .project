@@ -3,6 +3,7 @@
 	<name>java-maven-calculator-web-app</name>
 	<comment></comment>
 	<projects>
+		<-- commites are  changed--->
 	</projects>
 	<buildSpec>
 		<buildCommand>
